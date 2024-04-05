@@ -1,4 +1,4 @@
-import moment from 'moment-mini';
+import moment from 'moment-tiny';
 
 const presetMinComplete = 5;
 const presetMaxComplete = 80;

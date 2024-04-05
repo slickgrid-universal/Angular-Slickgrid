@@ -1,4 +1,4 @@
-import moment from 'moment-mini';
+import moment from 'moment-tiny';
 import { removeWhitespaces } from '../plugins/utilities';
 
 const presetLowestDay = moment().add(-2, 'days').format('YYYY-MM-DD');

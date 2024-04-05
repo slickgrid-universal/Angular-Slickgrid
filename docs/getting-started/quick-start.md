@@ -208,10 +208,8 @@ You should also add `Angular-Slickgrid` and any dependency that Angular shows a 
 ```json
 "options": {
   "allowedCommonJsDependencies": [
-    "autocompleter",
-    "dompurify",
+    "isomorphic-dompurify",
     "flatpickr",
-    "moment-mini",
     "stream"
   ],
 }

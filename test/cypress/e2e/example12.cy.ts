@@ -1,4 +1,4 @@
-import moment from 'moment-mini';
+import moment from 'moment-tiny';
 import { removeExtraSpaces } from '../plugins/utilities';
 
 describe('Example 12: Localization (i18n)', () => {

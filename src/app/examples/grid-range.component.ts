@@ -18,7 +18,7 @@ import {
   SliderRangeOption,
   unsubscribeAllObservables,
 } from '../modules/angular-slickgrid';
-import moment from 'moment-mini';
+import moment from 'moment-tiny';
 import { Subscription } from 'rxjs';
 
 const NB_ITEMS = 1500;

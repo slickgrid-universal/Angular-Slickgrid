@@ -16,7 +16,7 @@ import {
   SortDirection,
   unsubscribeAllObservables,
 } from './../modules/angular-slickgrid';
-import moment from 'moment-mini';
+import moment from 'moment-tiny';
 import { Subscription } from 'rxjs';
 
 const defaultPageSize = 20;

@@ -111,7 +111,7 @@
     "jest": "^29.7.0",
     "jest-extended": "^4.0.2",
     "jest-preset-angular": "^14.0.3",
-    "moment-mini": "^2.29.4",
+    "moment-tiny": "^2.30.3",
     "ng-packagr": "^17.3.0",
     "ngx-bootstrap": "^12.0.0",
     "npm-run-all2": "^6.1.2",
